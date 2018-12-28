@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # shareMood
 ## 微信小程序demo
 ------
@@ -58,7 +57,3 @@
 
 #### 图片展示
 <img src="https://github.com/Chzfly/CarStore/blob/master/captures/carshow.png" width="700px"/>
-=======
-# myDemo
-a javascript project
->>>>>>> dfa73b1e9801bc254c0c99a39e5ea8fbeb5db9b0
