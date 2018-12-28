@@ -4,7 +4,7 @@
 
 ### 主要技术栈
 
-> * 前端： 小程序API
+> * 前端： 小程序
 > * 后端： `NodeJS` `express` `mongoose`
 > * 数据库： `MongoDB`
 
@@ -19,10 +19,10 @@
 ### 图片展示
 
 #### 开发页面
-<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/devshow.png"/>
+<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/devshow.png" width="800px"/>
 
 #### 首页展示不同用户发布内容
-<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshowindex.png"/>
+<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshowindex.png" width="400px"/>
 
 #### 发布过程展示
 <img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-1.png"/>
