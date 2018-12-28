@@ -25,8 +25,8 @@
 <img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshowindex.png" width="400px"/>
 
 #### 发布过程展示
-<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-1.png"/>
-<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-2.png"/>
-<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-3.png"/>
-<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-4.png"/>
+<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-1.png" width="400px"/>
+<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-2.png" width="400px"/>
+<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-3.png" width="400px"/>
+<img src="https://github.com/Chzfly/wx-shareMood/blob/master/captures/mbshow-4.png" width="400px"/>
 
