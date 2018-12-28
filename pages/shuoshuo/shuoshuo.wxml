@@ -1,0 +1,10 @@
+<!--pages/shuoshuo/shuoshuo.wxml-->
+<view>
+   <textarea bindinput = "changeContent" placeholder="今天你想说点什么呢？？？" auto-focus />
+   <button bindtap = "choose">选择图片</button>
+   <!-- 视图预览区域 -->
+   <view class= "showPic" wx:for = "{{picArr}}" wx:key = "index">
+    <image mode = "widthFix" src = "{{item}}"></image>
+   </view>
+   <button type = "primary" bindtap = "upload">发布</button>
+</view>

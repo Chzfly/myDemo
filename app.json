@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/shuoshuo/shuoshuo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2E153F",
+    "navigationBarTitleText": "独乐乐不如众乐乐",
+    "navigationBarTextStyle":"white"
+  }
+}

@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+  <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+  <button bindtap = "gofabu">分享你今天的心情</button>
+  <view class = "show" wx:for = "{{result}}" wx:key = "index" wx:for-item = "list">
+    <view class = "left">
+      <image src = "{{list.avatarUrl}}"></image>
+      <view class = "nick">{{list.nickName}}</view>
+      <view class='time'>{{list.time}}</view>
+    </view>
+    <view class = "right">
+      <view class = "con"> {{list.content}}</view>
+      <view class = "pic" wx:for = "{{list.fwqPics}}" wx:for-item = "pic" wx:key="index">
+         <image mode='widthFix' wx:if = "{{pic}}" src = "http://192.168.1.102:3000/{{pic}}"></image>
+      </view>
+    </view>
+  </view>
+</view>
